@@ -1,2 +1,3 @@
 # hello-world
-this is a short description
+
+This is me learning git-hub.
